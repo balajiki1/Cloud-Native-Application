@@ -1,4 +1,4 @@
-# Cloud-Native App- CSYE 6225
+# Cloud-Native App
 
 ---
 
