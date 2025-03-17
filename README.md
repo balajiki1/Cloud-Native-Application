@@ -1,6 +1,5 @@
-# WebApp - CSYE 6225
+# Cloud-Native App- CSYE 6225
 
-## <ins>By Rebecca Biju : 002768633</ins>
 ---
 
 ## About
