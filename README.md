@@ -40,12 +40,15 @@ We publish a message to SNS Topic when an image is created or deleted. Based on 
 
 
 #### How to run? (WebApp)
-
-1. Install the dependencies
+1. Clone the repository from Organization
+    ```shell
+      git clone git@github.com:CloudComputingSpringCSYE6225/webapp.git
+    ```
+2. Install the dependencies
    ```shell
       npm i
     ```
-2. Run the program in dev mode
+3. Run the program in dev mode
    ```shell
       npm run dev
     ```
