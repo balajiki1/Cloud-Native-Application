@@ -1,0 +1,11 @@
+[Unit]
+Description= Webapp
+
+[Service]
+ExecStart=/usr/bin/node server.js
+Restart=always
+User=ec2-user
+WorkingDirectory=/home/ec2-user/webapp
+
+[Install]
+WantedBy=multi-user.target
